@@ -4,12 +4,12 @@
 }
 
 body {
-    background-color: rgb(1, 14, 1);
+    background-color: rgb(1, 14, 1)!important;
 }
 
 p, h3 {
     text-shadow: 1px 1px 3px black;
-    font-family: 'Playfair Display';
+    font-family: 'Playfair Display', serif!important;
 }
 
 .custom-bg {
