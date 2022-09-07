@@ -9,7 +9,7 @@ body {
 
 p, h3 {
     text-shadow: 1px 1px 3px black;
-    font-family: 'Playfair Display', serif!important;
+    font-family: 'Playfair Display'!important;
 }
 
 .custom-bg {
